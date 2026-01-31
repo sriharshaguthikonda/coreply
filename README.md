@@ -107,6 +107,11 @@ See [Prompting](docs/prompting.md) for details.
 3. Sync the Gradle files and resolve any dependencies.
 4. Build and run the app on your preferred device or emulator.
 
+## Continuous Builds
+
+Each push triggers a GitHub Actions workflow that assembles a release APK. You can download the
+latest build from the workflow run artifacts in the Actions tab.
+
 
 ## Contributing
 
