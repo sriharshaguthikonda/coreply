@@ -1,0 +1,39 @@
+﻿{
+    "schemaVersion":  "repo-map-artifact-branch/v1",
+    "repo":  "sriharshaguthikonda/coreply",
+    "generatedAt":  "2026-06-01T06:18:12.1220652Z",
+    "source":  "Repo_maps GitHub footprint publish runner",
+    "publishBranch":  "repo-intel-artifacts",
+    "mapCount":  4,
+    "totalBytes":  1238657,
+    "maps":  [
+                 {
+                     "name":  "codex/set-up-automated-build-on-push",
+                     "ref":  "refs/remotes/origin/codex/set-up-automated-build-on-push",
+                     "commit":  "0f7b1084c229bbf5828cfaf89417b199ebc41c66",
+                     "path":  ".repo-intel/branches/remote-origin/codex-set-up-automated-build-on-push__0f7b1084c229/repo-map-full.json",
+                     "bytes":  291113
+                 },
+                 {
+                     "name":  "hosted",
+                     "ref":  "refs/remotes/origin/hosted",
+                     "commit":  "cb33b4c85ea26d316dbd70bc1807188ac2b861d0",
+                     "path":  ".repo-intel/branches/remote-origin/hosted__cb33b4c85ea2/repo-map-full.json",
+                     "bytes":  312693
+                 },
+                 {
+                     "name":  "main",
+                     "ref":  "refs/remotes/origin/main",
+                     "commit":  "d7db2b40c650ceda7fba8385d022ee900510ef5b",
+                     "path":  ".repo-intel/branches/remote-origin/main__d7db2b40c650/repo-map-full.json",
+                     "bytes":  304861
+                 },
+                 {
+                     "name":  "web_release",
+                     "ref":  "refs/remotes/origin/web_release",
+                     "commit":  "a8f3915a066ef5069c88bba3aa4bdd568c2aa332",
+                     "path":  ".repo-intel/branches/remote-origin/web-release__a8f3915a066e/repo-map-full.json",
+                     "bytes":  317298
+                 }
+             ]
+}
